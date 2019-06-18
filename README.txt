@@ -1,4 +1,4 @@
-This was an assignment for my Unix/Linux System Administration and Programming class.
+This was an assignment on Bash/shell scripting for my Unix/Linux System Administration and Programming class.
 
 ---------------------------
 s3688090's Led_Konfigurator

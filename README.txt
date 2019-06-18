@@ -28,17 +28,17 @@ Features include:
 - [Buggy] Associate LED with the performance of a process, turns on LED for accordingly to CPU/memory usage
 	- LED works as an event timer in this mode, if CPU/memory usage if 50% the LED will be turned on for 0.5s and off for 0.5s.
 
-There are 2 scripts that comes with the package.
+There are 2 scripts that come with the package.
 
 - ledconfig.sh : main script responsible displaying menus and perform LED manipulation.
 
-- bgtask.sh : background script that monitors performance of a specified process and updated the LED
+- bgtask.sh : background script that monitors performance of a specified process and updates the LED
 
 
 REQUIREMENTS
 ------------
 
-A Raspberry Pi running Bash shell is required to use this script. SU's permissions will be required to perform LED manipulations.
+A Raspberry Pi running Bash shell is required to execute the script script. SU's permissions will be required to perform LED manipulations.
 
 
 INSTRUCTIONS

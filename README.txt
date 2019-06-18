@@ -1,4 +1,4 @@
-This was an assignment on Bash/shell scripting for my Unix/Linux System Administration and Programming class.
+This was an assignment on Bash/shell scripting for my Unix/Linux System Administration and Programming course at RMIT University.
 
 ---------------------------
 s3688090's Led_Konfigurator

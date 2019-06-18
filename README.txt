@@ -38,7 +38,7 @@ There are 2 scripts that come with the package.
 REQUIREMENTS
 ------------
 
-A Raspberry Pi running Bash shell is required to execute the script script. SU's permissions will be required to perform LED manipulations.
+A Raspberry Pi running Bash shell is required to execute the script. SU's permissions will be required to perform LED manipulations.
 
 
 INSTRUCTIONS

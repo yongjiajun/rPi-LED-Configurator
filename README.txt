@@ -96,6 +96,6 @@ MAINTAINERS
 Current maintainer:
 * Jia Jun Yong (s3688090) - https://github.com/rmit-s3688090-yongjiajun / https://github.com/yongjiajun
 
-This project has been sponsored by:
+This project was sponsored by:
 * RMIT University
 	I was joking.
